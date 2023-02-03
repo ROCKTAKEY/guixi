@@ -1,0 +1,9 @@
+[[https://github.com/ROCKTAKEY/guixi][https://img.shields.io/github/tag/ROCKTAKEY/guixi.svg?style=flat-square]]
+[[file:LICENSE][https://img.shields.io/github/license/ROCKTAKEY/guixi.svg?style=flat-square]]
+[[https://codecov.io/gh/ROCKTAKEY/guixi?branch=master][https://img.shields.io/codecov/c/github/ROCKTAKEY/guixi.svg?style=flat-square]]
+[[https://github.com/ROCKTAKEY/guixi/actions][https://img.shields.io/github/actions/workflow/status/ROCKTAKEY/guixi/test.yml.svg?branch=master&style=flat-square]]
+* guixi: Emacs integration for Guix
+
+* How to Use?
+* License
+  This package is licensed by GPLv3. See [[file:LICENSE][LICENSE]].
